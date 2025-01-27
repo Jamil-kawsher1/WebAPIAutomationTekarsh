@@ -8,7 +8,7 @@ This project contains automated tests for the Tekarsh web application using Play
 
 ### **Web Test Suite**
 
-The **Web Test Suite** contains tests to validate critical user flows on the Tekarsh web application.
+The **Web Test Suite** 
 
 #### **Spec Files and Sequence**
 
