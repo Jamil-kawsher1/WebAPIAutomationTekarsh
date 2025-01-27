@@ -14,9 +14,9 @@ The **Web Test Suite** contains tests to validate critical user flows on the Tek
 
 For the best results, run the following spec files in the specified order:
 
-1. `tests/testRunner/signup.spec.js`
-2. `tests/testRunner/eComAction.spec.js`
-3. `tests/testRunner/contactUs.spec.js`
+1. `tests/testRunner/1signup.spec.js`
+2. `tests/testRunner/2eComAction.spec.js`
+3. `tests/testRunner/3contactUs.spec.js`
 
 #### **Run the Entire Web Test Suite**
 
